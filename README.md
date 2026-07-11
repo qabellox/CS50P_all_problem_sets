@@ -18,11 +18,13 @@ This repository contains my polished solutions to all problem sets from CS50P. E
 ---
 
 ## 📂 Repository Structure
-**Week 0 Problems:**
-- Tip Calculator → [View Solution](https://github.com/qabellox/CS50P_all_problem_sets/blob/main/week0-functions-variables/tip.py)
-- Einstein → [View Solution](https://github.com/qabellox/CS50P_all_problem_sets/blob/main/week0-functions-variables/einstein.py)
-- Faces → [View Solution](https://github.com/qabellox/CS50P_all_problem_sets/blob/main/week0-functions-variables/faces.py)
 
+**Week 0 Problems:**
+- Einstein → [View Solution](https://github.com/qabellox/CS50P_all_problem_sets/blob/main/week_zero_Problem_Sets/einstein.py)
+- Faces → [View Solution](https://github.com/qabellox/CS50P_all_problem_sets/blob/main/week_zero_Problem_Sets/faces.py)
+- Indoor → [View Solution](https://github.com/qabellox/CS50P_all_problem_sets/blob/main/week_zero_Problem_Sets/indoor.py)
+- Playback → [View Solution](https://github.com/qabellox/CS50P_all_problem_sets/blob/main/week_zero_Problem_Sets/playback.py)
+- Tip → [View Solution](https://github.com/qabellox/CS50P_all_problem_sets/blob/main/week_zero_Problem_Sets/tip.py)
 ---
 
 ## 🚀 How to Use
