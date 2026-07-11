@@ -14,7 +14,7 @@ if exp[1] == "+":
     print(num1 + num2)
 elif exp[1] == "-":
     print(num1 - num2)
-if exp[1] == "*":
+elif exp[1] == "*":  
     print(num1 * num2)
-if exp[1] == "/":
+elif exp[1] == "/":  
     print(num1 / num2)
